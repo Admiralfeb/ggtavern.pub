@@ -1,0 +1,9 @@
+[submodule "ng.ggtavern.pub"]
+	path = ng.ggtavern.pub
+	url = https://github.com/Admiralfeb/ng.ggtavern.pub.git
+[submodule "ngdart.ggtavern.pub"]
+	path = ngdart.ggtavern.pub
+	url = https://github.com/Admiralfeb/ngdart.ggtavern.pub.git
+[submodule "react.ggtavern.pub"]
+	path = react.ggtavern.pub
+	url = https://github.com/Admiralfeb/react.ggtavern.pub.git
